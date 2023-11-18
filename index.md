@@ -1,2 +1,3 @@
-## h1
-Adding an H1 Header
+# h1
+Adding an H1 Header 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
