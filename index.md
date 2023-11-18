@@ -4,3 +4,6 @@ Adding an H1 Header
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] list1
+- [x] list2
+- [ ] list3
